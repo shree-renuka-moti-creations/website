@@ -1,0 +1,92 @@
+.heading{
+    margin: 0vmin;
+    font-size: 5vmin;
+    text-align: center;
+    font-weight: 900;
+    color: yellow;
+}
+
+.header{
+    background-color: orangered;
+}
+
+.logo{
+    padding-left: 40vmin;
+    width: 20vmin;
+}
+
+.navbar{
+    word-spacing: 2vmin;
+    text-align: center;
+    
+}
+
+.navbar .btn{
+    border-radius: 2vmin;
+    background-color: yellow;
+    margin: 2vmin;
+    font-size: 5vmin;
+
+}
+
+.navbar .btn:hover{
+    border-radius: 2vmin;
+    background-color:red;
+    margin: 2vmin;
+    font-size: 5vmin;
+
+}
+
+.aboutus{
+    /* margin-top: 100vmin; */
+    background-color: sandybrown;
+    margin-bottom: 0%;
+}
+
+.foot{
+    margin-top: 5vmin;
+    background-color: khaki;
+    text-align: center;
+    font-size: 3vmin;
+}
+
+.home{
+    border-radius: 1vmin;
+    border-style: solid;
+    padding: 2vmin;
+    margin-top: 2vmin;
+    margin-bottom: 4vmin;
+    text-align: justify;
+    /* background-color: lawngreen; */
+    font-size: 5vmin;
+}
+.home1{
+    border-radius: 1vmin;
+    border-style: solid;
+    padding: 2vmin;
+
+  
+    text-align: justify;
+    /* background-color: lawngreen; */
+    font-size: 5vmin;
+}
+
+.links{
+    background-color: lightblue;
+    padding-left: 2vmin;
+    width: 100%;
+}
+.links img{
+    /* padding-left: 5vmin; */
+    width: 20vmin;
+}
+
+.links a{
+    padding: 5%;
+    width: 20vmin;
+}
+
+body{
+    /* width: 100%; */
+    background-color: lightblue;
+}
